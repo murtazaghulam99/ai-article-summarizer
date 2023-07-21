@@ -79,10 +79,6 @@
   @apply mt-5 text-5xl font-extrabold leading-[1.15] text-black sm:text-6xl text-center;
 }
 
-/* .orange_gradient {
-  @apply bg-gradient-to-r from-amber-500 via-orange-600 to-yellow-500 bg-clip-text text-transparent;
-} */
-
 .modern_gradient {
   @apply bg-gradient-to-r from-teal-400 via-cyan-500 to-blue-600 bg-clip-text text-transparent;
 }
