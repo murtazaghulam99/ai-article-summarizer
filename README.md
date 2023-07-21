@@ -1,6 +1,4 @@
-# AI Article Summarizer
-
-![ai-article-summarizer](https://user-images.githubusercontent.com/your_username/your_repository/your_image.png)
+# SparkNotes AI Article Summarizer
 
 ## Table of Contents
 
@@ -47,7 +45,7 @@ To run the AI Article Summarizer locally, follow these steps:
 ## Usage
 
 1. After installing the dependencies, start the development server: `npm run dev`
-2. Open your web browser and go to `http://localhost:3000` to access the application.
+2. Open your web browser and go to `http://localhost:5173` to access the application.
 3. Enter or paste the article/text you want to summarize.
 4. Click on the "Summarize" button, and the AI Article Summarizer will provide you with a concise summary of the input.
 
