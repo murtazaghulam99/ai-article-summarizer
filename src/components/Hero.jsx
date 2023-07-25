@@ -31,7 +31,7 @@ const Hero = () => {
         Simplify your reading with our cutting-edge, open-source article
         summarizer. Say goodbye to lengthy articles and embrace clear,
         captivating summaries that spark curiosity and boost your
-        understanding."
+        understanding.
       </h2>
     </header>
   );
